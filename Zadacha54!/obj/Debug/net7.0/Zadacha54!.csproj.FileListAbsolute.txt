@@ -1,0 +1,14 @@
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 8\ДЗ\Seminar8_CS_DZ\Zadacha54!\bin\Debug\net7.0\Zadacha54!.exe
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 8\ДЗ\Seminar8_CS_DZ\Zadacha54!\bin\Debug\net7.0\Zadacha54!.deps.json
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 8\ДЗ\Seminar8_CS_DZ\Zadacha54!\bin\Debug\net7.0\Zadacha54!.runtimeconfig.json
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 8\ДЗ\Seminar8_CS_DZ\Zadacha54!\bin\Debug\net7.0\Zadacha54!.dll
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 8\ДЗ\Seminar8_CS_DZ\Zadacha54!\bin\Debug\net7.0\Zadacha54!.pdb
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 8\ДЗ\Seminar8_CS_DZ\Zadacha54!\obj\Debug\net7.0\Zadacha54!.GeneratedMSBuildEditorConfig.editorconfig
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 8\ДЗ\Seminar8_CS_DZ\Zadacha54!\obj\Debug\net7.0\Zadacha54!.AssemblyInfoInputs.cache
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 8\ДЗ\Seminar8_CS_DZ\Zadacha54!\obj\Debug\net7.0\Zadacha54!.AssemblyInfo.cs
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 8\ДЗ\Seminar8_CS_DZ\Zadacha54!\obj\Debug\net7.0\Zadacha54!.csproj.CoreCompileInputs.cache
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 8\ДЗ\Seminar8_CS_DZ\Zadacha54!\obj\Debug\net7.0\Zadacha54!.dll
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 8\ДЗ\Seminar8_CS_DZ\Zadacha54!\obj\Debug\net7.0\refint\Zadacha54!.dll
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 8\ДЗ\Seminar8_CS_DZ\Zadacha54!\obj\Debug\net7.0\Zadacha54!.pdb
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 8\ДЗ\Seminar8_CS_DZ\Zadacha54!\obj\Debug\net7.0\Zadacha54!.genruntimeconfig.cache
+D:\программирование\обучение\Инженер программист\Знакомство с яз програм\Семинар 8\ДЗ\Seminar8_CS_DZ\Zadacha54!\obj\Debug\net7.0\ref\Zadacha54!.dll
